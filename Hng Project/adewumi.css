@@ -1,0 +1,35 @@
+body{
+	margin:30px 150px;
+	background color:blue;
+}
+#bio{
+	text-align: center;
+
+}
+
+td{
+	color:#3498db;
+}
+
+li{
+	color:#3498db;
+	/*list-style: none;*/
+}
+
+h3{
+	color:blue;
+}
+
+h5{
+	color:#3498db;
+}
+#table{
+	border:10px solid #bdc3c7;
+}
+
+img{
+	width: 250px;
+	height:140px;
+	border: 2px solid black;
+
+}
