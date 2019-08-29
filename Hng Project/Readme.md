@@ -6,3 +6,6 @@ https://res.cloudinary.com/adewunmi/image/upload/v1566503854/samples/My%20Pictur
 
 Lucid blog post Url
 https://lucid.blog/adewunmiidowu17/post/1566494983
+
+Lucid blog css post url
+https://lucid.blog/adewunmiidowu17/post/cascading-style-sheet-is-awesome-cef
